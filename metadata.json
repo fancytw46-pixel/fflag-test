@@ -1,0 +1,6 @@
+{
+  "name": "BloxBoost",
+  "description": "Roblox FPS Booster and Fast Flags (FFlag) optimizer with performance tuning and ClientAppSettings generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
